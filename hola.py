@@ -1,3 +1,3 @@
 
 def hola(name):
-    print("Hola, " + name + "!")
+    print("¡Hola, " + name + "!")
